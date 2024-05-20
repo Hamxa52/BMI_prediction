@@ -20,19 +20,16 @@ Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Tkinter.
 This project calculates BMI and classifies individuals into different weight categories using a K-Nearest Neighbors (KNN) classifier. It provides an interactive GUI for users to input their height and weight and get their BMI status.
 
 ## Project Structure
-1# Data Preprocessing:
 
+1# Data Preprocessing:
 > Load or create the dataset
 > Calculate BMI and classify into categories
 > Feature selection and engineering
-
 2# Model Training:
-
 > Split the dataset into training and testing sets
 > Train a KNN classifier
 > Validate the model performance
 3# GUI Development:
-
 > Create a user-friendly interface with Tkinter
 > Allow users to input height and weight
 > Display the BMI, category, and prediction result
